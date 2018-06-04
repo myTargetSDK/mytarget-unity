@@ -22,10 +22,6 @@ Android 4.0
 
 iOS 7.0
 
-Windows Phone 8.1 or Universal Windows Application
-
-Unity 5.3
-
 [license-svg]: https://img.shields.io/badge/license-LGPL-lightgrey.svg
 [license-link]: https://github.com/myTargetSDK/mytarget-windows/blob/master/LICENSE
 
