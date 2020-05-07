@@ -12,7 +12,7 @@ After you have integrated the myTarget SDK, thousands of myTarget customers will
 
 To use the SDK in your Unity application, download myTarget.unitypackage and import all its content to your project.
 
-Integration instructions are available on our [website](https://target.my.com/partners/help/sdk/).
+Integration instructions are available on our [website](https://target.my.com/help/partners/en).
 
 Demo-scenes with examples of integration are available in the package.
 
